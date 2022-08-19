@@ -1,8 +1,8 @@
 {
-    "url": "https://ltidi2000.github.io/xsshuner_ltidi/swaggerxss.yaml",
+    "url": "https://github.com/phutr4n/swagger_xss/blob/main/swagger_xss_4.yaml",
     "urls": [
         {
-            "url": "https://ltidi2000.github.io/xsshuner_ltidi/swaggerxss.yaml",
+            "url": "https://github.com/phutr4n/swagger_xss/blob/main/swagger_xss_4.yaml",
             "name": "Foo"
         }
     ]
