@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/PT2OO/swagger_xss/main/swaggerxssbypasscsp.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/PT2OO/swagger_xss/main/swaggerxssbypasscsp.yaml",
+            "name": "Foo"
+        }
+    ]
+}
