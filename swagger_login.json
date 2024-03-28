@@ -1,9 +1,3 @@
-HTTP/2 200 OK
-Content-Type: application/json;charset=utf-8
-Vary: Accept-Encoding
-Date: Thu, 28 Mar 2024 03:30:59 GMT
-Content-Length: 221330
-
 {
   "openapi": "3.0.1",
   "info": {
