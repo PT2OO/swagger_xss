@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/phutr4n/swagger_xss/main/swaggerhtmli.yaml",
+    "url": "https://raw.githubusercontent.com/phutr4n/swagger_xss/main/swagger_htmli_login_page.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/phutr4n/swagger_xss/main/swaggerhtmli.yaml",
+            "url": "https://raw.githubusercontent.com/phutr4n/swagger_xss/main/swagger_htmli_login_page.yaml",
             "name": "Foo"
         }
     ]
