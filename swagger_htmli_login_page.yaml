@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, FS PoC<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg' class='wrapper'>
+    Hi, FS PoC<br><a href="https://attacker.com"><img src="https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/login_page.png" alt="Login" /></a>
 
   version: production
 basePath: /JSSResource/
@@ -28,8 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            Hi, FS PoC<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg' class='wrapper'>
-
+            Hi, FS PoC<br><a href="https://attacker.com"><img src="https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/login_page.png" alt="Login" /></a>
           format: int64
           in: path
           name: id
