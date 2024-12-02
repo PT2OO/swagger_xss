@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, im f3rgustran from YWH<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg'><a href='https://yeswehack.com/hunters/f3rgustran'><br>Please login here to continue</a>
+    Hi, FS PoC<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg'><a href='https://attacker.com/'><br>Please login here to continue</a>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            Hi, im f3rgustran from YWH<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg'><a href='https://yeswehack.com/hunters/f3rgustran'><br>Please login here to continue</a>
+            Hi, FS PoC<br><img src='https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/husky1.jpg'><a href='https://attacker.com'><br>Please login here to continue</a>
 
           format: int64
           in: path
