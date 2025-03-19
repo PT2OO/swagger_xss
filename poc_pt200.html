@@ -1,2 +1,35 @@
-<h2>OK</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Image</title>
+    <style>
+        /* Ensure the image takes up the full screen */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+
+        .image-container {
+            width: 100%;
+            height: 100%;
+        }
+
+        .image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensure the image covers the full screen */
+        }
+    </style>
+</head>
+<body>
+
+    <a href="https://attacker.com" target="_blank" class="image-container">
+        <img src="https://github.com/PT2OO/swagger_xss/blob/main/poc.png" alt="Clickable Image">
+    </a>
+
+</body>
+</html>
 <!-- PoC by pt200 -->
